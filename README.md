@@ -111,6 +111,19 @@ If you have any questions or suggestions, feel free to contact me:
 ![Screenshot (126)](https://github.com/user-attachments/assets/e3637674-c108-48a2-bd52-08c9f10dff70)
 ![Screenshot (127)](https://github.com/user-attachments/assets/777199f0-175d-4567-b58e-d6c3bf8f947a)
 ![Screenshot (128)](https://github.com/user-attachments/assets/c456360a-d3bc-49df-9171-daa928e3f33e)
+<img src="https://github.com/user-attachments/assets/11c19f4d-17ff-4df2-b4e7-f4a3fd22bfa6" alt="Screenshot 8" width="300"/>
+<img src="https://github.com/user-attachments/assets/50e8ddd0-19d8-4061-8cb7-0e75b4c82c09" alt="Screenshot 7" width="300"/>
+<img src="https://github.com/user-attachments/assets/85673852-a151-4c86-a099-2c6e80edddbe" alt="Screenshot 6" width="300"/>
+<img src="https://github.com/user-attachments/assets/496fe71c-6103-4689-ab9f-f22b8006e720" alt="Screenshot 5" width="300"/>
+<img src="https://github.com/user-attachments/assets/cbf046e7-8694-458e-8c96-03aa441a2de8" alt="Screenshot 4" width="300"/>
+<img src="https://github.com/user-attachments/assets/c9fad73a-fd5d-4a89-a8e7-9df68fa1c289" alt="Screenshot 3" width="300"/>
+<img src="https://github.com/user-attachments/assets/34b187f1-2261-428e-abe1-718a07671958" alt="Screenshot 2" width="300"/>
+<img src="https://github.com/user-attachments/assets/2133e15e-ed62-4fa7-9428-85755f3519c9" alt="Screenshot 1" width="300"/>
+<img src="https://github.com/user-attachments/assets/e8b9673b-a3b5-4434-9b89-69f329e802cd" alt="Screenshot 10" width="300"/>
+
+
+
+
 
 
 
