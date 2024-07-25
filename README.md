@@ -95,7 +95,10 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 If you have any questions or suggestions, feel free to contact me:
 
-- GitHub: [sau1606](https://www.github.com/sau1606)
+- GitHub: [Saurabh Singh](https://www.github.com/sau1606)
+- Linkedin: [Saurabh Singh](https://www.linkedin.com/in/sau1606)
+- Instagram: [Saurabh Singh](https://www.instagram.com/im_a_rathore/)
+- Gmail: [Saurabh Singh](mailto:singhsaurabh1606@gmail.com)
 
 Thank you for visiting my portfolio!
 
