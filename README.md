@@ -14,6 +14,7 @@ Welcome to my portfolio! This project showcases my work, skills, and experience 
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
+- [Gallery](#gallery)
 
 ## Introduction
 
@@ -99,6 +100,19 @@ If you have any questions or suggestions, feel free to contact me:
 - Linkedin: [Saurabh Singh](https://www.linkedin.com/in/sau1606)
 - Instagram: [Saurabh Singh](https://www.instagram.com/im_a_rathore/)
 - Gmail: [Saurabh Singh](mailto:singhsaurabh1606@gmail.com)
+
+
+## Gallery
+![Screenshot (121)](https://github.com/user-attachments/assets/9e5e3441-9410-44c3-82e9-ce1f62324ead)
+![Screenshot (122)](https://github.com/user-attachments/assets/be7db38c-d172-4fa3-9b01-0314e5049a85)
+![Screenshot (123)](https://github.com/user-attachments/assets/6bcdfd0d-58bd-4809-9ea6-dae9309fcb75)
+![Screenshot (124)](https://github.com/user-attachments/assets/ba954f5f-b46a-48b2-b88a-0ff33ce5d6fa)
+![Screenshot (125)](https://github.com/user-attachments/assets/10c80f4f-4e70-4a64-875c-0a04bd2bc348)
+![Screenshot (126)](https://github.com/user-attachments/assets/e3637674-c108-48a2-bd52-08c9f10dff70)
+![Screenshot (127)](https://github.com/user-attachments/assets/777199f0-175d-4567-b58e-d6c3bf8f947a)
+![Screenshot (128)](https://github.com/user-attachments/assets/c456360a-d3bc-49df-9171-daa928e3f33e)
+
+
 
 Thank you for visiting my portfolio!
 
